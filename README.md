@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -14,11 +15,12 @@
 
     .hero {
       position: relative;
-      background-image: url('hero.jpg');
+      background-image: url('hero.png'); /* ✅ Make sure this matches your uploaded image file */
       background-size: cover;
       background-position: center;
-      height: 450px;
+      height: 500px;
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
       text-align: center;
@@ -37,51 +39,10 @@
     .hero h1 {
       position: relative;
       z-index: 2;
-      font-size: 2.5rem;
+      font-size: 4rem;
+      margin: 0;
       color: #ff66cc;
-      padding: 1rem 2rem;
-      text-shadow: 2px 2px 10px #000;
+      text-shadow: 3px 3px 10px #000;
     }
 
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 1.5rem;
-      padding: 2rem;
-    }
-
-    .gallery img {
-      width: 100%;
-      height: auto;
-      border-radius: 10px;
-      border: 3px solid #ff66cc;
-      box-shadow: 0 0 20px rgba(255, 102, 204, 0.5);
-    }
-
-    .footer {
-      background-color: #222;
-      text-align: center;
-      padding: 1rem;
-      font-size: 0.9rem;
-      color: #aaa;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="hero">
-    <h1>Where Retro Gets Real — Digital Dreams, Printed Magic</h1>
-  </div>
-
-  <div class="gallery">
-    <img src="art1.jpg" alt="Retro surreal art 1">
-    <img src="art2.jpg" alt="Retro surreal art 2">
-    <img src="art3.jpg" alt="Retro surreal art 3">
-  </div>
-
-  <div class="footer">
-    &copy; 2025 SoRealosity. All rights reserved.
-  </div>
-
-</body>
-</html>
+    .hero h2, .hero p {
