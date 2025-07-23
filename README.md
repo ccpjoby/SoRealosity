@@ -1,85 +1,74 @@
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SoRealosity</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
-      font-family: 'Courier New', monospace;
-      background-color: #111;
-      color: #fff;
-    }
-
-    .hero {
-      background-image: url('hero.png');
-      background-size: cover;
-      background-position: center;
-      height: 80vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
+      font-family: 'Press Start 2P', cursive;
+      background-color: black;
+      color: fluorescent yello;
       text-align: center;
+    }
+    header {
       padding: 2rem;
     }
-
     h1 {
       font-size: 4rem;
       margin: 0;
-      color: #fff;
+      color: silver;
+      text-decoration: none;
     }
-
     .tagline {
-      font-size: 1.25rem;
+      font-size: 1rem;
       margin-top: 1rem;
-      max-width: 700px;
-      color: #ddd;
+      color: chartreusse;
     }
-
-    .gallery {
-      display: flex;
-      flex-direction: column;
-      gap: 2rem;
-      padding: 2rem;
-      background-color: #222;
+    .hero {
+      max-width: 100%;
+      height: auto;
+      margin-top: 2rem;
     }
-
-    .gallery img {
-      width: 100%;
-      max-width: 800px;
-      margin: 0 auto;
-      border: 3px solid #fff;
-      box-shadow: 0 0 10px #000;
-      display: block;
+    .artwork {
+      margin: 3rem 0;
     }
-
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #111;
-      font-size: 0.8rem;
-      color: #666;
+    .artwork img {
+      width: 80%;
+      max-width: 600px;
+      height: auto;
+      border: 2px solid silver;
+      border-radius: 8px;
+    }
+    .caption {
+      font-size: 0.75rem;
+      margin-top: 0.5rem;
     }
   </style>
 </head>
 <body>
-  <div class="hero">
+  <header>
     <h1>SoRealosity</h1>
-    <div class="tagline">
-      SoRealosity delivers AI-powered nostalgic artwork inspired by iconic moments that never happened — but should have.
-    </div>
+    <div class="tagline">SoRealosity delivers AI-powered nostalgic artwork inspired by iconic moments that never happened — but should have.</div>
+  </header>
+  <img class="hero" src="hero.png" alt="Hero image">
+
+  <div class="artwork">
+    <img src="art1.jpg" alt="Hitchcock Directs Dinner Scene">
+    <div class="caption">Alfred Hitchcock directs an unsettling dinner between Julia Child and Hannibal Lecter in a surreal culinary thriller.</div>
   </div>
 
-  <div class="gallery">
-    <img src="art1.jpg" alt="Art 1" />
-    <img src="art2.jpg" alt="Art 2" />
-    <img src="art3.jpg" alt="Art 3" />
+  <div class="artwork">
+    <img src="art2.jpg" alt="Sinatra and Marilyn">
+    <div class="caption">Frank Sinatra, mid-song on a golden toilet, gets an assist from Marilyn Monroe with a roll of retro pink toilet paper.</div>
   </div>
 
-  <footer>
-    &copy; 2025 SoRealosity. All surreal rights imagined.
-  </footer>
+  <div class="artwork">
+    <img src="art3.jpg" alt="Churchill Breakdancing">
+    <div class="caption">Winston Churchill, in a pinstripe suit and bowler hat, breakdancing beneath neon lights at Studio 54.</div>
+  </div>
 </body>
 </html>
+
 
