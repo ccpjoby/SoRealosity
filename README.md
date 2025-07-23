@@ -163,18 +163,18 @@
   <img class="hero" src="hero.png" alt="Hero image">
 
   <div class="artwork">
-    <img src="art1.jpg" alt="Hitchcock Directs Dinner Scene">
-    <div class="caption">Alfred Hitchcock directs an unsettling dinner between Julia Child and Hannibal Lecter in a surreal culinary thriller.</div>
+    <img src="art1.jpg" alt="Sinatra and Marilyn">
+    <div class="caption">Frank Sinatra, contemplative on a toilet, gets an assist from Marilyn Monroe with a roll of toilet paper.</div>
   </div>
 
   <div class="artwork">
-    <img src="art2.jpg" alt="Sinatra and Marilyn">
-    <div class="caption">Frank Sinatra, mid-song on a golden toilet, gets an assist from Marilyn Monroe with a roll of retro pink toilet paper.</div>
+    <img src="art2.jpg" alt="Churchill Breakdancing">
+    <div class="caption">Winston Churchill, in a pinstripe suit and bowler hat, breakdancing beneath bright Manhattan lights.</div>
   </div>
 
   <div class="artwork">
-    <img src="art3.jpg" alt="Churchill Breakdancing">
-    <div class="caption">Winston Churchill, in a pinstripe suit and bowler hat, breakdancing beneath neon lights at Studio 54.</div>
+    <img src="art3.jpg" alt="Hitchcock Directs Dinner Scene">
+    <div class="caption"></div>Alfred Hitchcock directs an unsettling dinner between Julia Child and Hannibal Lecter in a surreal culinary thriller.</div>
   </div>
 </body>
 </html>
