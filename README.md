@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -129,54 +128,5 @@
     </div>
   </section>
 
-  <div class="footer">&copy; 2025 SoRealosity.com — Designed in the Twilight Zone</div>
-</body>
-</html>
-
-    }
-    .hero {
-      max-width: 100%;
-      height: auto;
-      margin-top: 2rem;
-    }
-    .artwork {
-      margin: 3rem 0;
-    }
-    .artwork img {
-      width: 80%;
-      max-width: 600px;
-      height: auto;
-      border: 2px solid silver;
-      border-radius: 8px;
-    }
-    .caption {
-      font-size: 0.75rem;
-      margin-top: 0.5rem;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>SoRealosity</h1>
-    <div class="tagline">SoRealosity delivers AI-powered nostalgic artwork inspired by iconic moments that never happened — but should have.</div>
-  </header>
-  <img class="hero" src="hero.png" alt="Hero image">
-
-  <div class="artwork">
-    <img src="art1.jpg" alt="Sinatra and Marilyn">
-    <div class="caption">Frank Sinatra, contemplative on a toilet, gets an assist from Marilyn Monroe with a roll of toilet paper.</div>
-  </div>
-
-  <div class="artwork">
-    <img src="art2.jpg" alt="Churchill Breakdancing">
-    <div class="caption">Winston Churchill, in a pinstripe suit and bowler hat, breakdancing beneath bright Manhattan lights.</div>
-  </div>
-
-  <div class="artwork">
-    <img src="art3.jpg" alt="Hitchcock Directs Dinner Scene">
-    <div class="caption"></div>Alfred Hitchcock directs an unsettling dinner between Julia Child and Hannibal Lecter in a surreal culinary thriller.</div>
-  </div>
-</body>
-</html>
-
+ 
 
