@@ -141,6 +141,41 @@
         <button>Buy Print</button>
       </div>
     </div>
+    <!-- Art 4 -->
+<div class="art-item">
+  <img src="art4.jpg" alt="Bruce Lee and Dean Martin in Heaven" />
+  <p>Bruce Lee and Dean Martin in Heaven</p>
+  <button onclick="buyArt('art4.jpg')">Buy</button>
+</div>
+
+<!-- Art 5 -->
+<div class="art-item">
+  <img src="art5.jpg" alt="Barbara Walters Interviewing Satan" />
+  <p>Barbara Walters interviewing Satan</p>
+  <button onclick="buyArt('art5.jpg')">Buy</button>
+</div>
+
+<!-- Art 6 -->
+<div class="art-item">
+  <img src="art6.jpg" alt="George Michael Eating a Cinnabon" />
+  <p>George Michael eating a Cinnabon instead of singing jitterbug</p>
+  <button onclick="buyArt('art6.jpg')">Buy</button>
+</div>
+
+<!-- Art 7 -->
+<div class="art-item">
+  <img src="art7.jpg" alt="Arnold on Protein and Chicken vs Egg" />
+  <p>Arnold telling you just eat protein, who cares about what comes first between chicken and egg</p>
+  <button onclick="buyArt('art7.jpg')">Buy</button>
+</div>
+
+<!-- Art 8 -->
+<div class="art-item">
+  <img src="art8.jpg" alt="Coach Ted Lasso Directing Chess Match" />
+  <p>Coach Ted Lasso directing a classic chess match between greats Ronaldo and Messi with legends watching</p>
+  <button onclick="buyArt('art8.jpg')">Buy</button>
+</div>
+
   </section>
 
   <div class="footer">&copy; 2025 SoRealosity.com — Designed in the Twilight Zone</div>
