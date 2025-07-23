@@ -107,11 +107,11 @@
 <body>
   <header>
     <div class="title">SoRealosity</div>
-    <div class="tagline">Iconic images that never happened, but should have!</div>
+    <div class="tagline">Surreal iconic images that never happened, but should have!</div>
   </header>
 
   <div class="hero">
-    Where Retro Gets Real — Digital Dreams, Printed Magic
+   SoRealosity delivers AI-powered nostalgic artwork inspired by iconic fantasy like moments and turns digital dreams into printed magic!
   </div>
 
   <section class="products">
