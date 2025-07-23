@@ -172,6 +172,12 @@
   <button onclick="buyArt('art8.jpg')">Buy Print</button>
 </div>
 
+<!-- Art 9 -->
+<div class="art-item" style="border: 3px solid pink; padding: 10px; margin: 10px;">
+  <img src="art49.jpg" alt="David Bowie and Mr Rogers Podcasting" style="width:100%;" />
+  <p>David Bowie and Mr. Rogers</p>
+  <button onclick="buyArt('art9.jpg')">Buy Print</button>
+</div>
   </section>
 
   <div class="footer">&copy; 2025 SoRealosity.com delivers AI-powered artwork where Pop Culture, History, and Absurdity Collide in Iconic Style!  Retro Icons, Twisted Realities, Timeless Cool </div>
