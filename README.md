@@ -110,10 +110,6 @@
     <div class="tagline"><i>Surreal iconic images that never happened, but should have!</i></div>
   </header>
 
-  <div class="hero">
-   SoRealosity delivers AI-powered artwork where Pop Culture, History, and Absurdity Collide in Iconic Style!  Retro Icons, Twisted Realities, Timeless Cool!
-  </div>
-
   <section class="products">
     <div class="product-card">
       <img src="art1.jpg" alt="Sinatra on Toilet">
@@ -178,7 +174,7 @@
 
   </section>
 
-  <div class="footer">&copy; 2025 SoRealosity.com — Designed in the Twilight Zone</div>
+  <div class="footer">&copy; 2025 SoRealosity.com delivers AI-powered artwork where Pop Culture, History, and Absurdity Collide in Iconic Style!  Retro Icons, Twisted Realities, Timeless Cool </div>
 </body>
 </html>
 
