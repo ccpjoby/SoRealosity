@@ -6,7 +6,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Press+Start+2P&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: 'Press Start 2P', impact;
+      font-family: 'Press Start 2P', cursive;
       background: linear-gradient(to bottom right, #1a1a1a, #3d3d3d);
       color: #fefefe;
       margin: 0;
