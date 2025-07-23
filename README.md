@@ -6,12 +6,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Press+Start+2P&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: 'Press Start 2P', cursive;
-      background: linear-gradient(to bottom right, #1a1a1a, #3d3d3d);
-      color: #fefefe;
-      margin: 0;
-      padding: 0;
-    }
+      font-family: <h1 style="font-family: 'Press Start 2P', cursive; font-size: 3rem; color: silver; text-align: center;">
+  SoRealosity
+</h1>
     header {
       background: #000;
       padding: 2rem;
