@@ -3,23 +3,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>SoRealosity</title>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <style>
-    body {
+    h1.title {
       font-family: 'Press Start 2P', cursive;
-      background: linear-gradient(to bottom right, #1a1a1a, #3d3d3d);
-      color: #fefefe;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #000;
-      padding: 2rem;
+      font-size: 4rem; /* Bigger font size */
+      color: silver;
       text-align: center;
-      font-size: 2rem;
-      color: #00ffcc;
-      text-shadow: 2px 2px #ff00ff;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      letter-spacing: 0.1em; /* Adds spacing between letters */
+      text-shadow: 2px 2px 5px black; /* Optional: subtle glow */
     }
+  </style>
+       }
     .hero {
       background: url('your-hero-image.jpg') center/cover no-repeat;
       height: 450px;
