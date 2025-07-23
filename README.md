@@ -174,7 +174,7 @@
 
 <!-- Art 9 -->
 <div class="art-item" style="border: 3px solid pink; padding: 10px; margin: 10px;">
-  <img src="art49.jpg" alt="David Bowie and Mr Rogers Podcasting" style="width:100%;" />
+  <img src="art9.jpg" alt="David Bowie and Mr Rogers Podcasting" style="width:100%;" />
   <p>David Bowie and Mr. Rogers</p>
   <button onclick="buyArt('art9.jpg')">Buy Print</button>
 </div>
