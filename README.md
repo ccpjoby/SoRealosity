@@ -32,7 +32,7 @@
     }
 
     .hero {
-      background: url('your-hero-image.jpg') center/cover no-repeat;
+      background: url('newhero.png') center/cover no-repeat;
       height: 400px;
       display: flex;
       align-items: center;
