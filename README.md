@@ -107,11 +107,11 @@
 <body>
   <header>
     <div class="title">SoRealosity</div>
-    <div class="tagline">Surreal iconic images that never happened, but should have!</div>
+    <div class="tagline"><i>Surreal iconic images that never happened, but should have!</i></div>
   </header>
 
   <div class="hero">
-   SoRealosity delivers AI-powered nostalgic artwork inspired by iconic fantasy like moments and turns digital dreams into printed magic!
+   SoRealosity delivers AI-powered artwork where Pop Culture, History, and Absurdity Collide in Iconic Style!  Retro Icons, Twisted Realities, Timeless Cool!
   </div>
 
   <section class="products">
